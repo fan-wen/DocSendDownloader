@@ -3,7 +3,7 @@ A Chrome extension to download DocSend slides as a PDF.
 
 ## Installation from source
 
-1. Download this repository as a Zip file to your machine
+1. [Download this repository as a Zip file to your machine](https://github.com/fan-wen/DocSendDownloader/archive/refs/heads/master.zip)
 2. Navigate to `chrome://extensions/` on Google Chrome.
 3. Toggle Developer Mode on the top right if not toggled already.
 4. Click Load unpacked and navigate to the directory of this repository and select it.
